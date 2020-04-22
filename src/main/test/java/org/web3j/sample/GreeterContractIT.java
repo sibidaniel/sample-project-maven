@@ -4,6 +4,7 @@ import org.junit.Test;
 
 /**
  * Integration test to run our main application.
+ * checking something
  */
 public class GreeterContractIT {
 
